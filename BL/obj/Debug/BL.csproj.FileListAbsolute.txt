@@ -1,0 +1,2 @@
+C:\Users\Luis A Sequiera\source\repos\Marydohanny\SitiowebDinamicos\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\Luis A Sequiera\source\repos\Marydohanny\SitiowebDinamicos\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
