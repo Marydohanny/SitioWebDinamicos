@@ -42,8 +42,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="autorBL.cs" />
+    <Compile Include="BLautor.cs" />
+    <Compile Include="BLcomentarios.cs" />
+    <Compile Include="BLeditorial.cs" />
+    <Compile Include="BLlibros.cs" />
+    <Compile Include="BLLibrosDes.cs" />
     <Compile Include="comentariosBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="usuarioBL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">
